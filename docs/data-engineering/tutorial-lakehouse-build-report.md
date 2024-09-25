@@ -96,9 +96,9 @@ DirectLake mode now eliminates this import requirement by loading the data files
       :::image type="content" source="media\tutorial-lakehouse-build-report\card-visualization.png" alt-text="Screenshot showing a visual converted to a card." lightbox="media\tutorial-lakehouse-build-report\card-visualization.png":::
 
 1. Add a Bar chart:
-   1. On the **Data** pane, expand **fact_sales** and check the box next to **Profit**. This selection creates a column chart and adds the field to the X-axis.
+   1. On the **Data** pane, expand **fact_sales** and check the box next to **Profit**. This selection creates a column chart and adds the field to the Y-axis.
 
-   1. On the **Data** pane, expand **dimension_city** and check the box for **SalesTerritory**. This selection adds the field to the Y-axis.
+   1. On the **Data** pane, expand **dimension_city** and check the box for **SalesTerritory**. This selection adds the field to the X-axis.
 
    1. With the bar chart selected, select the **Clustered bar chart** visual in the visualization pane. This selection converts the column chart into a bar chart.
 
